@@ -68,7 +68,8 @@
       "species": "Doggo",
       "diet": "herbivore",
       "personalityTraits": [
-        "zany"
+        "zany",
+        "Addicted"
       ]
     },
     {
@@ -108,6 +109,15 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
     }
   ]
 }
